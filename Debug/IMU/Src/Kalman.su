@@ -1,0 +1,2 @@
+../IMU/Src/Kalman.c:12:14:KalmanFilterACC	16	static
+../IMU/Src/Kalman.c:35:14:KalmanFilterMAG	16	static

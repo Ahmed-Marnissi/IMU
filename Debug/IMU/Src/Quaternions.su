@@ -1,0 +1,4 @@
+../IMU/Src/Quaternions.c:21:6:UpdateQuaternion	24	static
+../IMU/Src/Quaternions.c:41:6:NoFilter	96	static
+../IMU/Src/Quaternions.c:92:6:Mdgwick	4	static
+../IMU/Src/Quaternions.c:96:6:Mahony	112	static
