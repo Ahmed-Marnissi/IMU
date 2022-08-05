@@ -44,3 +44,11 @@ The Euler angles can be obtained from the quaternions via the relations:
 ![4](https://user-images.githubusercontent.com/109542834/183052831-df4aa949-267e-46b5-ba48-859e0ce89ac7.png)
 
 # Hardware and Setup
+I used STM32F407 dicovery kit and MPU9250 as the IMU sensor :
+
+![circuit](https://user-images.githubusercontent.com/109542834/183058842-f07fce78-5494-4300-bf7d-01a71817cc99.jpg)
+
+# The code 
+
+![image](https://user-images.githubusercontent.com/109542834/183060180-0d5eb808-a315-4bae-b7ca-f1669a580430.png)
+
