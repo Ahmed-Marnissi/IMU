@@ -1,10 +1,3 @@
-/*
- * Kalman.c
- *
- *  Created on: 2 août 2022
- *      Author: EXtrA
- */
-
 
 #include "Inc/Kalman.h"
 
