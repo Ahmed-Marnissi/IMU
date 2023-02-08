@@ -1,4 +1,4 @@
-# Quaternion Based AHRS Estimation Using MPU9250 and STM32F407
+# Quaternion Based AHRS Estimation Using MPU9250 and STM32F407-Disc
 # What is AHRS ?
 AHRS stands for “Attitude and Heading Reference System”.
 
